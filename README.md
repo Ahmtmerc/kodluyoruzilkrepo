@@ -27,4 +27,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 
 # Proje Görseli
 
-![Image](image.png)
+![Image](https://raw.githubusercontent.com/Ahmtmerc/kodluyoruzilkrepo/4c52391c06e8f945652f35fab481d7bcbeff4e3a/image/kodluyoruzilkrepo%20githug%20g%C3%B6rseli.png)
